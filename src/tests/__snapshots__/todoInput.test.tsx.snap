@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot: render TodoInput component 1`] = `
+<input
+  className="input-new_todo"
+  onChange={[Function]}
+  onKeyDown={[Function]}
+  placeholder="new todo name"
+  type="text"
+  value=""
+/>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot: render Item component 1`] = `
+<div
+  className="item-container"
+>
+  todoItem
+  <input
+    onChange={[Function]}
+    type="checkbox"
+  />
+</div>
+`;

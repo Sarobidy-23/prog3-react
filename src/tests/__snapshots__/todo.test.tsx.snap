@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Global application Snapshot: render todo component 1`] = `
+<div
+  className="flex-container"
+>
+  <input
+    className="input-new_todo"
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="new todo name"
+    type="text"
+    value=""
+  />
+  <div>
+    <div
+      className="todo-container"
+    >
+      <label
+        className="todo-label"
+      >
+        TODO
+      </label>
+      <section
+        className="todo-element"
+      />
+    </div>
+    <div
+      className="done-container"
+    >
+      <label
+        className="done-label"
+      >
+        DONE
+      </label>
+      <section
+        className="done-element"
+      />
+    </div>
+  </div>
+</div>
+`;
