@@ -1,0 +1,16 @@
+.item-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 4px;
+    background: rgba(65, 65, 65, 0.126);
+}
+.input-new_todo {
+    height: 35px; padding-left: 15px;
+    border: 0;
+    outline: none;
+    padding-left: 15px;
+    box-shadow: 0 1px 5px rgba(56, 55, 55, 0.582);
+    margin-bottom: 10px;
+}
